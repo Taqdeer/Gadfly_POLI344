@@ -1,0 +1,24 @@
+body, html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#userInput{
+    display: none; 
+    margin : 0 auto;
+}
+
+#myCanvas{
+    /* margin: 10% ; */
+    width: 100%;
+    /* background-color: pink; */
+}
+p{
+    text-align: center;
+}
+a{
+    
+    text-align: center;
+    font-size: 30px;
+}
